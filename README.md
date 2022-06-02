@@ -6,6 +6,7 @@
 - 🌐 Visit me on [My Portfolio](https://shenalakalanka-official.blogspot.com)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Akalanka-00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akalanka-00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
 
 
 <!---
