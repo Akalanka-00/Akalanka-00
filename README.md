@@ -9,17 +9,19 @@
 
 [<img  src = "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">](https://shenalakalanka-official.blogspot.com)
 
+#### The IDE's I am familier with.
+
   
 <!--- IDE --->
 <img align = "left"   style="margin-right: 10px;" src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img align = "left"  style="margin-right: 10px;" src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img align = "left"  style="margin-right: 10px;" src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<img align = "left"  style="margin-right: 10px;" src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">&nbsp;
+<img align = "left"  style="margin-right: 10px;" src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
    
 
  <br />
-
  <br />
+ #### The languages that I am good at
  <!--- LANGUAGES --->
 <img align = "left"  style="margin-right: 10px;" src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align = "left"  style="margin-right: 10px;" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
