@@ -6,14 +6,14 @@
  <br >
  
  <br />
- <div>
+ 
 ##  Here is the interesting facts about me!
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning at University of Moratuwa, Sri Lanka
 - 💞️ I’m looking to collaborate on github
 - 📫 You can reach me by E-mail shenalakalanka513@gmail.com
 - 🌐 Visit me on [My Portfolio](https://shenalakalanka-official.blogspot.com)
-<div/>
+
 
 [<img  src = "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">](https://shenalakalanka-official.blogspot.com)
 
