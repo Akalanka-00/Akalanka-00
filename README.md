@@ -1,5 +1,7 @@
 
 #  Hi, I’m Akalanka
+
+<img src = "https://camo.githubusercontent.com/f0bc252cd072d68455b13bf0a34d78430a84ec88cc1fb339c182a267265ea984/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966">
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning at University of Moratuwa, Sri Lanka
 - 💞️ I’m looking to collaborate on github
