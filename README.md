@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👯 I’m looking to collaborate with colleagues.<br>🤝 I’m looking for help with my projects.<br>🌱 I’m currently learning at the University of Moratuwa, Sri Lanka.<br>💬 Ask me about anything you are interested in.<br>📫 You can reach me by E-mail shenalakalanka513@gmail.com<br>
+👯 I’m looking to collaborate with colleagues.<br>🤝 I’m looking for help with my projects.<br>🌱 I’m currently reading for BACHELOR OF SCIENCE HONOURS IN INFORMATION TECHNOLOGY in University of Moratuwa, Sri Lanka.<br>💬 Ask me about anything you are interested in.<br>📫 You can reach me by E-mail shenalakalanka513@gmail.com<br>
 
 
 ## 🌐 Socials:
