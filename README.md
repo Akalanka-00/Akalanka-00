@@ -2,7 +2,10 @@
 # 💫 About Me:
 👯 I’m looking to collaborate with colleagues.<br>🤝 I’m looking for help with my projects.<br>🌱 I’m currently reading for BACHELOR OF SCIENCE HONOURS IN INFORMATION TECHNOLOGY in University of Moratuwa, Sri Lanka.<br>💬 Ask me about anything you are interested in.<br>📫 You can reach me by E-mail shenalakalanka513@gmail.com<br>
 
-
+<a href="https://stackoverflow.com/users/18323659/">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/18323659?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shenalakalanka) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010203702185) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shenal_akalanka_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shenalakalanka) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ShenalAkalanka) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shenal-Akalanka) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shenalakalanka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18323659) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shenalakalanka) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shenalakalanka) 
 
