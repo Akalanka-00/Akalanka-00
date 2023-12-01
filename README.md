@@ -3,7 +3,7 @@
 
 # **💫 About Me:**
 <div style="text-align:center;">
- <img alt="Stack Exchange reputation" src="https://media.tenor.com/3klZkDif0nsAAAAC/gaming-gif.gif">
+ <img alt="Cover image" src="https://media.tenor.com/3klZkDif0nsAAAAC/gaming-gif.gif">
  </div>
 
  </br>
