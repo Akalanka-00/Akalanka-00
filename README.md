@@ -2,7 +2,7 @@
 
 
 # **💫 About Me:**
-<div style="text-align:center;">
+<div align="center" style="text-align:center;">
  <img alt="Cover image" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
  </div>
 
@@ -18,18 +18,21 @@
 
 📫 You can reach me by email [shenalakalanka513@gmail.com](mailto:shenalakalanka513@gmail.com)
 
-<div style="text-align:center;">
+
 
 <a href="https://stackoverflow.com/users/18323659/">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/18323659?color=orange&label=reputation&logo=stackoverflow">
   </a>
 
-  [![](https://visitcount.itsvg.in/api?id=Akalanka-00&icon=10&color=3)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Akalanka-00&label=Profile%20Views&color=6&icon=2&pretty=true" />
+</a>
 
 <!-- <br/>
 
   # 🌐 Socials: -->
-
+<div style="text-align:center;" align="center">
+ 
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shenalakalanka) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010203702185) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shenal_akalanka_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shenalakalanka) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ShenalAkalanka)   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18323659) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shenalakalanka) 
 
 <br/>
