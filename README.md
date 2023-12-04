@@ -3,7 +3,7 @@
 
 # **💫 About Me:**
 <div align="center" style="text-align:center;">
- <img alt="Cover image" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
+ <img alt="Cover image" width="1000" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
  </div>
 
  </br>
@@ -24,9 +24,7 @@
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/18323659?color=orange&label=reputation&logo=stackoverflow">
   </a>
 
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Akalanka-00&label=Profile%20Views&color=6&icon=2&pretty=true" />
-</a>
+  ![](https://komarev.com/ghpvc/?username=Akalanka-00)
 
 <!-- <br/>
 
