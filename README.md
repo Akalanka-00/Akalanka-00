@@ -3,7 +3,7 @@
 
 # **💫 About Me:**
 <div align="center" style="text-align:center;">
- <img alt="Cover image" width="1000" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
+ <img alt="Cover image" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
  </div>
 
  </br>
