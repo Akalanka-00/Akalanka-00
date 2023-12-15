@@ -25,8 +25,8 @@
   </a> -->
 
 [![](https://img.shields.io/stackexchange/stackoverflow/r/18323659?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/18323659/) 
-  <!--  ![](https://komarev.com/ghpvc/?username=Akalanka-00) -->
-  ![](https://visitcount.itsvg.in/api?id=Akalanka-00&label=Profile%20Views&color=6&pretty=false)
+   ![](https://komarev.com/ghpvc/?username=Akalanka-00) 
+ <!-- ![](https://visitcount.itsvg.in/api?id=Akalanka-00&label=Profile%20Views&color=6&pretty=false)-->
 
  <br/>
 <div style="text-align:center;" align="center">
