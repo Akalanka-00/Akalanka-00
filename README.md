@@ -1,5 +1,5 @@
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AF723&random=false&width=435&lines=Hello!+I+am+Shenal+Akalanka)](https://git.io/typing-svg)
 
 # **💫 About Me:**
 <div align="center" style="text-align:center;">
@@ -49,7 +49,8 @@
 
 <details>
 <summary>
-  More stuff about me
+ 
+ ## More stuff about me
 </summary>
 
 # 📊 GitHub Stats:
