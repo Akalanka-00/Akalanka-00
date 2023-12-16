@@ -1,6 +1,8 @@
 <div style="text-align:center;" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Broken+Fax&size=50&pause=1000&color=00F400&center=true&vCenter=true&random=true&width=800&height=100&lines=Hello!+I+am+Shenal+Akalanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Broken+Fax&size=50&duration=3000&pause=1000&color=00F400&center=true&vCenter=true&random=true&width=800&height=100&lines=++Hello!+;+I+am+Shenal+Akalanka;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+
+
 </div>
 
 <!--# **💫 About Me:**-->
