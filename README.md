@@ -1,9 +1,11 @@
+<div style="text-align:center;" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AF723&random=false&width=435&lines=Hello!+I+am+Shenal+Akalanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Broken+Fax&size=50&pause=1000&color=00F400&center=true&vCenter=true&random=true&width=800&height=100&lines=Hello!+I+am+Shenal+Akalanka)](https://git.io/typing-svg)
+</div>
 
-# **💫 About Me:**
+<!--# **💫 About Me:**-->
 <div align="center" style="text-align:center;">
- <img alt="Cover image" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
+ <img alt="Cover image" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width=75%>
  </div>
 
  </br>
